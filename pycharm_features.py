@@ -8,3 +8,4 @@ def is_even (x:int) -> bool:
         return True
     else:
         return False
+    #Add more functions
